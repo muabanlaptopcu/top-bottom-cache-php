@@ -1,5 +1,7 @@
 # topbottomcache
-Creat Cache file for Website
+Create Cache file for Website
+
+Begin: Create "cached" folders and Chmod 777 in root hosting
 
 Example:
 
